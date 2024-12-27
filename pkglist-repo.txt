@@ -80,6 +80,5 @@ vulkan-radeon
 xdotool
 xorg-xhost
 xwaylandvideobridge
-z
 zram-generator
 zsh
