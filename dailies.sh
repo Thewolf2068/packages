@@ -1,7 +1,7 @@
 #!/bin/bash
 
-pacman -Qqen > ./pkglist-repo.txt
-pacman -Qqem > ./pkglist-aur.txt
+pacman -Qqen > $HOME/repos/packageBackups/pkglist-repo.txt
+pacman -Qqem > $HOME/repos/packageBackups/pkglist-aur.txt
 
 cd $HOME/repos/packageBackups
 git add .

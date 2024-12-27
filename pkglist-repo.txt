@@ -6,6 +6,7 @@ btrfs-progs
 chezmoi
 cmatrix
 code
+cronie
 discord
 dolphin
 dunst
@@ -79,5 +80,6 @@ vulkan-radeon
 xdotool
 xorg-xhost
 xwaylandvideobridge
+z
 zram-generator
 zsh
