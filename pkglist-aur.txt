@@ -13,6 +13,7 @@ rose-pine-cursor
 spotify
 spotify-tui
 sptlrx-bin
+superfile
 thorium-browser-bin
 ttf-firacode
 tty-clock
