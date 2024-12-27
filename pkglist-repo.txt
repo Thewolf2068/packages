@@ -4,6 +4,7 @@ bitwarden
 btop
 btrfs-progs
 chezmoi
+cliphist
 cmatrix
 code
 cronie
@@ -15,6 +16,7 @@ fastfetch
 feh
 font-manager
 fuse3
+fzf
 gamescope
 gimp
 git
@@ -64,6 +66,7 @@ sl
 slurp
 spotifyd
 steam
+stress
 swaync
 swww
 sxiv
