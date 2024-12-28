@@ -5,6 +5,7 @@ ctpv-git
 hyprland-git
 hyprlock-git
 hyprpaper-git
+hyprshot
 icat
 krabby-bin
 pipes.sh
