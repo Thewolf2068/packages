@@ -20,5 +20,6 @@ vesktop
 waybar-git
 wlogout
 workstyle-git
+xdg-desktop-portal-hyprland-git
 yay
 yay-debug

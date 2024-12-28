@@ -46,6 +46,7 @@ ncdu
 networkmanager
 ntfs-3g
 nwg-look
+obs-studio
 os-prober
 otf-font-awesome
 papirus-icon-theme
