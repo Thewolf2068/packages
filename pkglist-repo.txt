@@ -51,7 +51,6 @@ os-prober
 otf-font-awesome
 papirus-icon-theme
 pavucontrol
-pinta
 pipewire
 pipewire-alsa
 pipewire-jack

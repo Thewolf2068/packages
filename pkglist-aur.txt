@@ -1,3 +1,4 @@
+asdf-vm
 catppuccin-gtk-theme-frappe
 cava
 cbonsai
@@ -9,6 +10,7 @@ hyprshot
 icat
 krabby-bin
 pipes.sh
+protonup-qt
 pyenv-virtualenv
 rose-pine-cursor
 spotify
