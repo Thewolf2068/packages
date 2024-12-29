@@ -13,6 +13,7 @@ pipes.sh
 protonup-qt
 pyenv-virtualenv
 rose-pine-cursor
+sp
 spotify
 spotify-tui
 sptlrx-bin
