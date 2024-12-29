@@ -9,7 +9,6 @@ cmatrix
 code
 cronie
 discord
-dolphin
 dunst
 efibootmgr
 fastfetch
@@ -81,6 +80,7 @@ ttf-font-awesome
 unzip
 vi
 vulkan-radeon
+wqy-zenhei
 xdotool
 xorg-xhost
 xwaylandvideobridge
