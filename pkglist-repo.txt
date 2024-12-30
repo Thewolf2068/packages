@@ -1,3 +1,4 @@
+amdvlk
 base
 base-devel
 bitwarden
@@ -9,6 +10,7 @@ cmatrix
 code
 cronie
 discord
+dnsmasq
 dunst
 efibootmgr
 fastfetch
@@ -33,6 +35,7 @@ imagemagick
 intel-ucode
 kitty
 lf
+lib32-openssl-1.1
 lib32-vulkan-radeon
 libreoffice-still
 libva-utils
@@ -46,6 +49,7 @@ networkmanager
 ntfs-3g
 nwg-look
 obs-studio
+openssl-1.1
 os-prober
 otf-font-awesome
 papirus-icon-theme
@@ -64,6 +68,7 @@ sassc
 sddm
 sl
 slurp
+speedtest-cli
 spotifyd
 steam
 stress

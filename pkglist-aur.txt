@@ -21,6 +21,7 @@ thorium-browser-bin
 ttf-firacode
 tty-clock
 vesktop
+vulkan-amdgpu-pro
 waybar-git
 wlogout
 workstyle-git
