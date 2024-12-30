@@ -9,7 +9,6 @@ cliphist
 cmatrix
 code
 cronie
-discord
 dnsmasq
 dunst
 efibootmgr
@@ -42,6 +41,7 @@ libva-utils
 linux
 linux-firmware
 man-db
+mangohud
 mpv
 nano
 ncdu

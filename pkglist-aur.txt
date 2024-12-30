@@ -12,6 +12,7 @@ krabby-bin
 pipes.sh
 protonup-qt
 pyenv-virtualenv
+r2modman-bin
 rose-pine-cursor
 sp
 spotify
@@ -23,7 +24,6 @@ tty-clock
 vesktop
 vulkan-amdgpu-pro
 waybar-git
-webcord
 wlogout
 wlrobs-hg
 workstyle-git
