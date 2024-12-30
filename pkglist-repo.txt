@@ -91,6 +91,5 @@ xdotool
 xf86-video-ati
 xorg-xhost
 xwaylandvideobridge
-z
 zram-generator
 zsh
