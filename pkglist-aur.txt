@@ -23,7 +23,9 @@ tty-clock
 vesktop
 vulkan-amdgpu-pro
 waybar-git
+webcord
 wlogout
+wlrobs-hg
 workstyle-git
 xdg-desktop-portal-hyprland-git
 yay
