@@ -3,6 +3,7 @@ catppuccin-gtk-theme-frappe
 cava
 cbonsai
 ctpv-git
+discord-canary
 hyprland-git
 hyprlock-git
 hyprpaper-git
@@ -21,7 +22,6 @@ sptlrx-bin
 thorium-browser-bin
 ttf-firacode
 tty-clock
-vesktop
 vulkan-amdgpu-pro
 waybar-git
 wlogout
