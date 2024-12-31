@@ -10,3 +10,4 @@ git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
 ```
+Download Vencord and enable Cloud-Sync in the settings to restore Discord config
