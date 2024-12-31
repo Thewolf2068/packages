@@ -4,11 +4,11 @@ cava
 cbonsai
 ctpv-git
 discord-canary
+gnome-calculator-gtk3
 hyprland-git
 hyprlock-git
 hyprpaper-git
 hyprshot
-icat
 krabby-bin
 pipes.sh
 protonup-qt
@@ -22,6 +22,7 @@ sptlrx-bin
 thorium-browser-bin
 ttf-firacode
 tty-clock
+virtio-win-stable
 vulkan-amdgpu-pro
 waybar-git
 wlogout

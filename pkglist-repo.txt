@@ -2,6 +2,7 @@ amdvlk
 base
 base-devel
 bitwarden
+bridge-utils
 btop
 btrfs-progs
 chezmoi
@@ -36,6 +37,7 @@ kitty
 lf
 lib32-openssl-1.1
 lib32-vulkan-radeon
+libguestfs
 libreoffice-still
 libva-utils
 linux
@@ -62,6 +64,7 @@ prismlauncher
 pyenv
 python-pip
 python-pipenv
+qemu-base
 ranger
 rofi
 sassc
@@ -85,6 +88,8 @@ ttf-firacode-nerd
 ttf-font-awesome
 unzip
 vi
+virt-manager
+virt-viewer
 vulkan-radeon
 wqy-zenhei
 xdotool
