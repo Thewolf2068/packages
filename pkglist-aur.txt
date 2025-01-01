@@ -10,6 +10,7 @@ hyprlock-git
 hyprpaper-git
 hyprshot
 krabby-bin
+lunar-client-qt2
 pipes.sh
 protonup-qt
 pyenv-virtualenv
