@@ -30,6 +30,7 @@ grub-customizer
 gtk-engine-murrine
 gtk3
 gtk4
+haveged
 htop
 imagemagick
 intel-ucode
