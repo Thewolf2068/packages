@@ -32,6 +32,7 @@ gtk3
 gtk4
 haveged
 htop
+hyprpicker
 imagemagick
 intel-ucode
 kitty

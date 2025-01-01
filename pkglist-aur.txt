@@ -2,6 +2,7 @@ asdf-vm
 catppuccin-gtk-theme-frappe
 cava
 cbonsai
+clipse
 ctpv-git
 discord-canary
 gnome-calculator-gtk3
