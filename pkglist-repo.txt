@@ -67,6 +67,7 @@ pyenv
 python-pip
 python-pipenv
 qemu-base
+qt5-quickcontrols2
 ranger
 rofi
 sassc
