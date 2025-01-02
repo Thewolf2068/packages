@@ -6,6 +6,7 @@ clipse
 ctpv-git
 discord-canary
 easyeffects-bundy01-presets
+gdm-settings-beta
 gnome-calculator-gtk3
 hyprland-git
 hyprlock-git
