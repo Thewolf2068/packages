@@ -10,6 +10,7 @@ hyprland-git
 hyprlock-git
 hyprpaper-git
 krabby-bin
+parsec-bin
 pipes.sh
 protonup-qt
 pyenv-virtualenv
