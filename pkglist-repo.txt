@@ -24,7 +24,6 @@ git
 gnome-calendar
 gnome-disk-utility
 gparted
-greetd
 grim
 grub
 grub-customizer
