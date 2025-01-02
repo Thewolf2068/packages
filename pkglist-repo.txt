@@ -18,6 +18,7 @@ font-manager
 fuse3
 fzf
 gamescope
+gdm
 gimp
 git
 gnome-calendar
