@@ -24,6 +24,7 @@ git
 gnome-calendar
 gnome-disk-utility
 gparted
+greetd
 grim
 grub
 grub-customizer
@@ -72,7 +73,6 @@ qt5-quickcontrols2
 ranger
 rofi
 sassc
-sddm
 sl
 slurp
 speedtest-cli
