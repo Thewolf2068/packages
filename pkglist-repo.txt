@@ -5,12 +5,15 @@ bitwarden
 bridge-utils
 btop
 btrfs-progs
+calf
 chezmoi
 cmatrix
 code
 cronie
 dnsmasq
+dolphin
 dunst
+easyeffects
 efibootmgr
 fastfetch
 feh

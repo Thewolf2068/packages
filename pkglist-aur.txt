@@ -5,6 +5,7 @@ cbonsai
 clipse
 ctpv-git
 discord-canary
+easyeffects-bundy01-presets
 gnome-calculator-gtk3
 hyprland-git
 hyprlock-git
