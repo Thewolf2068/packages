@@ -57,6 +57,7 @@ networkmanager
 ntfs-3g
 nwg-look
 obs-studio
+obsidian
 openssl-1.1
 os-prober
 otf-font-awesome
