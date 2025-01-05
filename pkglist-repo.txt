@@ -26,7 +26,6 @@ font-manager
 fuse3
 fzf
 gamescope
-gdm
 gimp
 git
 gnome-calendar
@@ -54,6 +53,7 @@ libva-utils
 linux
 linux-firmware
 linux-lts
+ly
 man-db
 mangohud
 mpv
@@ -116,7 +116,6 @@ xdg-desktop-portal-hyprland-git
 xdotool
 xf86-video-ati
 xorg-xhost
-xwaylandvideobridge
 yay
 z
 zram-generator
