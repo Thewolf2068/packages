@@ -35,7 +35,7 @@ gtk3
 gtk4
 haveged
 htop
-hyprpicker
+hyprland
 imagemagick
 intel-ucode
 kitty
@@ -102,5 +102,6 @@ xdotool
 xf86-video-ati
 xorg-xhost
 xwaylandvideobridge
+z
 zram-generator
 zsh

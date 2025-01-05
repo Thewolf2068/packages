@@ -8,9 +8,6 @@ discord-canary
 easyeffects-bundy01-presets
 gdm-settings-beta
 gnome-calculator-gtk3
-hyprland-git
-hyprlock-git
-hyprpaper-git
 krabby-bin
 parsec-bin
 pipes.sh
@@ -31,6 +28,5 @@ waybar-git
 wlogout
 wlrobs-hg
 workstyle-git
-xdg-desktop-portal-hyprland-git
 yay
 yay-debug
