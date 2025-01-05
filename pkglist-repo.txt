@@ -111,6 +111,7 @@ waybar-git
 wlogout
 wlrobs-hg
 wqy-zenhei
+xdg-desktop-portal-hyprland-git
 xdotool
 xf86-video-ati
 xorg-xhost
