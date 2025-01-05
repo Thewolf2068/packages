@@ -1,8 +1,8 @@
 cbonsai
 clipse
 ctpv-git
-discord-canary
 easyeffects-bundy01-presets
+electron29-bin
 gnome-calculator-gtk3
 krabby-bin
 pipes.sh

@@ -15,6 +15,7 @@ chezmoi
 cmatrix
 code
 cronie
+discord-canary-electron-bin
 dnsmasq
 dolphin
 dunst
@@ -112,6 +113,7 @@ waybar-git
 wlogout
 wlrobs-hg
 wqy-zenhei
+xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland-git
 xdotool
 xf86-video-ati
