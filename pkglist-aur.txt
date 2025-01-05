@@ -1,4 +1,5 @@
 asdf-vm
+betterdiscord-installer
 catppuccin-gtk-theme-frappe
 cava
 cbonsai
