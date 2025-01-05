@@ -7,7 +7,7 @@ chaotic-keyring
 chaotic-mirrorlist
 clipse
 ctpv-git
-discord-canary-electron-bin
+discord-canary
 easyeffects-bundy01-presets
 electron29-bin
 gnome-calculator-gtk3
