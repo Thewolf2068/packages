@@ -12,6 +12,7 @@ easyeffects-bundy01-presets
 electron29-bin
 gnome-calculator-gtk3
 hyprland-git
+jdk21-temurin
 krabby-bin
 parsec-bin
 pipes.sh
@@ -26,6 +27,7 @@ sptlrx-bin
 thorium-browser-bin
 ttf-firacode
 tty-clock
+unigine-heaven
 virtio-win-stable
 vulkan-amdgpu-pro
 waybar-git

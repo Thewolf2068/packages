@@ -74,6 +74,7 @@ python-pipenv
 qemu-base
 qt5-quickcontrols2
 ranger
+rclone
 rofi
 sassc
 sl
