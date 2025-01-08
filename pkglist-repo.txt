@@ -71,6 +71,7 @@ prismlauncher
 pyenv
 python-pip
 python-pipenv
+qbittorrent
 qemu-base
 qt5-quickcontrols2
 ranger
