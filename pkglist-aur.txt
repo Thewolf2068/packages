@@ -13,6 +13,8 @@ easyeffects-bundy01-presets
 electron29-bin
 gnome-calculator-gtk3
 hyprland-git
+hyprlock-git
+hyprswitch
 jdk21-temurin
 krabby-bin
 mailspring-bin
@@ -26,6 +28,7 @@ sp
 spotify
 spotify-tui
 sptlrx-bin
+sunshine
 thorium-browser-bin
 ttf-firacode
 tty-clock

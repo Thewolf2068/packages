@@ -53,6 +53,7 @@ mangohud
 mpv
 nano
 ncdu
+net-tools
 networkmanager
 ntfs-3g
 nwg-look
