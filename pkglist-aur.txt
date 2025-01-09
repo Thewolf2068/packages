@@ -15,6 +15,7 @@ gnome-calculator-gtk3
 hyprland-git
 jdk21-temurin
 krabby-bin
+mailspring-bin
 parsec-bin
 pipes.sh
 protonup-qt
