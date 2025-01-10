@@ -90,6 +90,7 @@ swappy
 swaync
 swww
 sxiv
+tailscale
 thunar
 thunderbird
 ttf-fira-code
