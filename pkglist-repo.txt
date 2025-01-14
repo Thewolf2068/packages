@@ -13,6 +13,7 @@ cronie
 dnsmasq
 dolphin
 dunst
+dwarffortress
 easyeffects
 efibootmgr
 fastfetch
@@ -50,6 +51,7 @@ linux-lts
 ly
 man-db
 mangohud
+mesa-utils
 mpv
 nano
 ncdu
