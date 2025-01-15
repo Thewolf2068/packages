@@ -1,4 +1,5 @@
 asdf-vm
+bambustudio-bin
 betterdiscord-installer
 catppuccin-cursors-frappe
 catppuccin-gtk-theme-frappe
@@ -8,9 +9,11 @@ chaotic-keyring
 chaotic-mirrorlist
 clipse
 ctpv-git
+cura-bin
 discord-canary
 easyeffects-bundy01-presets
 electron29-bin
+f3d-bin
 gnome-calculator-gtk3
 hyprland-git
 hyprlock-git

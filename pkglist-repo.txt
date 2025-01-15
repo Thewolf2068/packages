@@ -18,6 +18,7 @@ easyeffects
 efibootmgr
 fastfetch
 feh
+file-roller
 font-manager
 fuse3
 fzf
