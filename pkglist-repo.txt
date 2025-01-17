@@ -54,6 +54,7 @@ man-db
 mangohud
 mesa-utils
 mpv
+mupdf
 nano
 ncdu
 net-tools
