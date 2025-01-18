@@ -20,6 +20,7 @@ hyprlock-git
 jdk21-temurin
 krabby-bin
 mailspring-bin
+overlayed-bin
 parsec-bin
 pipes.sh
 protonup-qt
