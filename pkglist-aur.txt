@@ -28,6 +28,7 @@ pyenv-virtualenv
 r2modman-bin
 rose-pine-cursor
 sp
+spicetify-cli
 spotify
 spotify-tui
 sptlrx-bin

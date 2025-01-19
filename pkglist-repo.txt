@@ -19,6 +19,7 @@ efibootmgr
 fastfetch
 feh
 file-roller
+flatpak
 font-manager
 fuse3
 fzf
@@ -40,6 +41,7 @@ htop
 iftop
 imagemagick
 intel-ucode
+just
 kitty
 lf
 lib32-openssl-1.1
@@ -60,6 +62,7 @@ nano
 ncdu
 net-tools
 networkmanager
+nsxiv
 ntfs-3g
 nwg-look
 obs-studio
@@ -75,15 +78,18 @@ pipewire-jack
 pipewire-pulse
 prismlauncher
 pyenv
+python-httpx
 python-pip
 python-pipenv
 python-pipx
+python-pypresence
 qbittorrent
 qemu-base
 qt5-quickcontrols2
 ranger
 rclone
 rofi
+rust
 sassc
 sl
 slurp
@@ -95,13 +101,13 @@ stress
 swappy
 swaync
 swww
-sxiv
 tailscale
 thunar
 thunderbird
 ttf-fira-code
 ttf-firacode-nerd
 ttf-font-awesome
+ueberzugpp
 unzip
 vi
 virt-manager
