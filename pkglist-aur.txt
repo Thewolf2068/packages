@@ -40,7 +40,6 @@ ttf-firacode
 tty-clock
 unigine-heaven
 virtio-win-stable
-vulkan-amdgpu-pro
 waybar-git
 winegui-bin
 wlogout

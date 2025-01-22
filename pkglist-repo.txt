@@ -1,4 +1,3 @@
-amdvlk
 base
 base-devel
 bitwarden
