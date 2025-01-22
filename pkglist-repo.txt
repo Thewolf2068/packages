@@ -43,6 +43,7 @@ imagemagick
 intel-ucode
 just
 kitty
+leafpad
 lf
 lib32-openssl-1.1
 lib32-vulkan-radeon
