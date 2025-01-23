@@ -29,6 +29,7 @@ protonup-qt
 pyenv-virtualenv
 r2modman-bin
 rose-pine-cursor
+sidequest-bin
 sp
 spicetify-cli
 spotify
