@@ -1,4 +1,4 @@
-alvr-bin
+alvr-launcher-bin
 asdf-vm
 bambustudio-bin
 betterdiscord-installer
@@ -16,8 +16,10 @@ easyeffects-bundy01-presets
 electron29-bin
 f3d-bin
 gnome-calculator-gtk3
+gpustat-git
 hyprland-git
 hyprlock-git
+hyprpolkitagent-bin
 jdk21-temurin
 krabby-bin
 mailspring-bin
