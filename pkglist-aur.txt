@@ -41,6 +41,7 @@ sunshine
 thorium-browser-bin
 ttf-firacode
 tty-clock
+ungoogled-chromium-bin
 unigine-heaven
 virtio-win-stable
 waybar-git
