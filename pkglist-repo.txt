@@ -111,6 +111,7 @@ ttf-fira-code
 ttf-firacode-nerd
 ttf-font-awesome
 ueberzugpp
+unrar
 unzip
 vi
 virt-manager

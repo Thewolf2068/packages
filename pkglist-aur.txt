@@ -15,12 +15,14 @@ discord-canary
 easyeffects-bundy01-presets
 electron29-bin
 f3d-bin
+flatseal
 gnome-calculator-gtk3
 gpustat-git
 hyprland-git
 hyprlock-git
 hyprpolkitagent-bin
 jdk21-temurin
+jdownloader2
 krabby-bin
 mailspring-bin
 miru-bin
