@@ -118,6 +118,7 @@ virt-manager
 virt-viewer
 vulkan-radeon
 vulkan-tools
+wmctrl
 wqy-zenhei
 xdg-desktop-portal-gtk
 xdotool
