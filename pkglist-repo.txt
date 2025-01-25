@@ -10,8 +10,10 @@ cmatrix
 code
 corectrl
 cronie
+cups
 dnsmasq
 dolphin
+dosbox
 dunst
 dwarffortress
 easyeffects
@@ -21,6 +23,7 @@ feh
 file-roller
 flatpak
 font-manager
+fontforge
 fuse3
 fzf
 gamescope
@@ -45,7 +48,15 @@ just
 kitty
 leafpad
 lf
+lib32-attr
+lib32-gst-plugins-good
+lib32-gtk3
+lib32-libsoup
+lib32-libvpx
 lib32-openssl-1.1
+lib32-rust-libs
+lib32-speex
+lib32-vkd3d
 lib32-vulkan-radeon
 libguestfs
 libreoffice-still
@@ -53,6 +64,7 @@ libva-utils
 linux
 linux-firmware
 linux-lts
+lld
 ly
 man-db
 mangohud
@@ -60,6 +72,7 @@ mesa-utils
 mpv
 mupdf
 nano
+nasm
 ncdu
 net-tools
 networkmanager
@@ -116,8 +129,12 @@ unzip
 vi
 virt-manager
 virt-viewer
+vkd3d
 vulkan-radeon
 vulkan-tools
+wine-gecko
+wine-mono
+winetricks
 wmctrl
 wqy-zenhei
 xdg-desktop-portal-gtk
