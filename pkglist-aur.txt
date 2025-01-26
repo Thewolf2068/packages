@@ -24,6 +24,7 @@ hyprpolkitagent-bin
 jdk21-temurin
 jdownloader2
 krabby-bin
+lunar-client
 mailspring-bin
 miru-bin
 overlayed-bin
