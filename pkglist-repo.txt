@@ -81,6 +81,7 @@ ntfs-3g
 nwg-look
 obs-studio
 obsidian
+okular
 openssl-1.1
 os-prober
 otf-font-awesome
