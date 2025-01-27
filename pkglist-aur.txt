@@ -1,6 +1,7 @@
 alvr-launcher-bin
 asdf-vm
 bambustudio-bin
+baobab-gtk3
 betterdiscord-installer
 catppuccin-cursors-frappe
 catppuccin-gtk-theme-frappe
@@ -40,7 +41,6 @@ spicetify-cli
 spotify
 spotify-tui
 sptlrx-bin
-sunshine
 thorium-browser-bin
 ttf-firacode
 tty-clock
