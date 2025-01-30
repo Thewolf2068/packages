@@ -41,6 +41,7 @@ spicetify-cli
 spotify
 spotify-tui
 sptlrx-bin
+sunshine-beta-bin
 thorium-browser-bin
 ttf-firacode
 tty-clock
