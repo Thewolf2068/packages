@@ -142,5 +142,6 @@ xdg-desktop-portal-gtk
 xdotool
 xf86-video-ati
 xorg-xhost
+yt-dlp
 zram-generator
 zsh
