@@ -103,6 +103,7 @@ qbittorrent
 qemu-base
 qt5-quickcontrols2
 qt5-wayland
+qt6-virtualkeyboard
 ranger
 rclone
 rofi
