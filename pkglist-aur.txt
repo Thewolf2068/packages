@@ -14,6 +14,7 @@ ctpv-git
 cura-bin
 discord-canary
 easyeffects-bundy01-presets
+electron26-bin
 electron29-bin
 f3d-bin
 flatseal
@@ -50,6 +51,7 @@ ungoogled-chromium-bin
 unigine-heaven
 virtio-win-stable
 waybar-git
+whatsapp-electron-bin
 winegui-bin
 wlogout
 wlrobs-hg

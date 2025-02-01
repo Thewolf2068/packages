@@ -108,6 +108,7 @@ rclone
 rofi
 rust
 sassc
+sddm
 sl
 slurp
 speedtest-cli
