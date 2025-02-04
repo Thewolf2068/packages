@@ -10,6 +10,7 @@ cbonsai
 chaotic-keyring
 chaotic-mirrorlist
 clipse
+coolercontrol-bin
 ctpv-git
 cura-bin
 discord-canary
