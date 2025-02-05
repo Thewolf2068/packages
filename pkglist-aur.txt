@@ -1,5 +1,6 @@
 alvr-launcher-bin
 asdf-vm
+audiorelay
 bambustudio-bin
 baobab-gtk3
 betterdiscord-installer
