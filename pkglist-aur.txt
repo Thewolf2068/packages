@@ -1,6 +1,5 @@
 alvr-launcher-bin
 asdf-vm
-audiorelay
 bambustudio-bin
 baobab-gtk3
 betterdiscord-installer
@@ -19,7 +18,6 @@ easyeffects-bundy01-presets
 electron26-bin
 electron29-bin
 f3d-bin
-flatseal
 gnome-calculator-gtk3
 gpustat-git
 hyprland-git

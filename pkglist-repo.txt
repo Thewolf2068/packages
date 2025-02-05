@@ -21,7 +21,6 @@ efibootmgr
 fastfetch
 feh
 file-roller
-flatpak
 font-manager
 fontforge
 fuse3
