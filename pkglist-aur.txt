@@ -1,5 +1,6 @@
 alvr-launcher-bin
 asdf-vm
+audio-share-bin
 bambustudio-bin
 baobab-gtk3
 betterdiscord-installer
@@ -43,6 +44,7 @@ spotify
 spotify-tui
 sptlrx-bin
 streamrip
+sublime-text-4
 sunshine-beta-bin
 thorium-browser-bin
 ttf-firacode
