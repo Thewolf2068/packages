@@ -31,6 +31,7 @@ lunar-client
 mailspring-bin
 miru-bin
 overlayed-bin
+pamac-all
 parsec-bin
 pipes.sh
 protonup-qt
