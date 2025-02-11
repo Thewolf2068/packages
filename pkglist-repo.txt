@@ -24,6 +24,7 @@ file-roller
 filezilla
 font-manager
 fontforge
+freerdp2
 fuse3
 fzf
 gamescope
