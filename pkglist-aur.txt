@@ -29,6 +29,7 @@ jdownloader2
 krabby-bin
 lunar-client
 mailspring-bin
+maxautoclicker
 miru-bin
 overlayed-bin
 pamac-all
@@ -59,6 +60,7 @@ winegui-bin
 wlogout
 wlrobs-hg
 workstyle-git
+xautoclick
 xdg-desktop-portal-hyprland-git
 yay
 yay-debug
