@@ -42,6 +42,7 @@ gtk3
 gtk4
 haveged
 htop
+hyprland
 iftop
 imagemagick
 intel-ucode
@@ -124,7 +125,6 @@ swaync
 swww
 tailscale
 thunar
-thunderbird
 ttf-fira-code
 ttf-firacode-nerd
 ttf-font-awesome
