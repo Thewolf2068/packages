@@ -43,6 +43,7 @@ gtk4
 haveged
 htop
 hyprland
+hyprlock
 iftop
 imagemagick
 intel-ucode

@@ -9,6 +9,7 @@ chaotic-mirrorlist
 clipse
 ctpv-git
 cura-bin
+discord-canary
 easyeffects-bundy01-presets
 electron26-bin
 electron29-bin
