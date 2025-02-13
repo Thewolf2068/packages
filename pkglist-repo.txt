@@ -126,6 +126,7 @@ swaync
 swww
 tailscale
 thunar
+thunderbird
 ttf-fira-code
 ttf-firacode-nerd
 ttf-font-awesome
@@ -144,7 +145,6 @@ winetricks
 wmctrl
 wqy-zenhei
 xdg-desktop-portal-gtk
-xdg-desktop-portal-hyprland
 xdotool
 xf86-video-ati
 xorg-xhost
