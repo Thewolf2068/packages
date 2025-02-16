@@ -12,6 +12,7 @@ corectrl
 cronie
 cups
 dnsmasq
+docker
 dolphin
 dosbox
 dunst
