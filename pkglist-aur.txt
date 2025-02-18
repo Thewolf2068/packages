@@ -53,3 +53,4 @@ workstyle-git
 xdg-desktop-portal-hyprland-git
 yay
 yay-debug
+zen-browser-bin
