@@ -45,6 +45,7 @@ ttf-firacode
 tty-clock
 unigine-heaven
 virtio-win-stable
+vmware-workstation
 waybar-git
 winegui-bin
 wlogout
