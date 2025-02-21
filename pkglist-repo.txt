@@ -78,6 +78,7 @@ mupdf
 nano
 nasm
 ncdu
+neovim
 net-tools
 networkmanager
 noto-fonts-emoji
@@ -104,6 +105,7 @@ python-pip
 python-pipenv
 python-pipx
 python-pypresence
+python-pywal
 qbittorrent
 qemu-base
 qt5-quickcontrols2
