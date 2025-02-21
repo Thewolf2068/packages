@@ -62,7 +62,6 @@ lib32-rust-libs
 lib32-speex
 lib32-vkd3d
 lib32-vulkan-radeon
-libguestfs
 libreoffice-still
 libva-utils
 linux
@@ -132,6 +131,7 @@ tailscale
 thunar
 thunderbird
 tldr
+tree
 ttf-fira-code
 ttf-firacode-nerd
 ttf-font-awesome
