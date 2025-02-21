@@ -29,6 +29,7 @@ overlayed-bin
 parsec-bin
 protonup-qt
 pyenv-virtualenv
+python2-bin
 r2modman-bin
 rose-pine-cursor
 spicetify-cli
@@ -48,6 +49,7 @@ winegui-bin
 wlogout
 wlrobs-hg
 workstyle-git
+wpgtk-git
 xdg-desktop-portal-hyprland-git
 yay
 yay-debug

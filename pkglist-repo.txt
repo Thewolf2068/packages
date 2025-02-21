@@ -69,6 +69,7 @@ linux
 linux-firmware
 linux-lts
 lld
+lxappearance
 ly
 man-db
 mangohud
