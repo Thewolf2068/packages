@@ -64,6 +64,7 @@ lib32-vkd3d
 lib32-vulkan-radeon
 libreoffice-still
 libva-utils
+libvirt
 linux
 linux-firmware
 linux-lts
@@ -140,7 +141,6 @@ unrar
 unzip
 vi
 virt-manager
-virt-viewer
 vkd3d
 vulkan-radeon
 vulkan-tools
