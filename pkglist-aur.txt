@@ -51,6 +51,7 @@ wlrobs-hg
 workstyle-git
 wpgtk-git
 xdg-desktop-portal-hyprland-git
+xpadneo-dkms-git
 yay
 yay-debug
 zen-browser-bin
