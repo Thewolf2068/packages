@@ -7,7 +7,6 @@ chaotic-keyring
 chaotic-mirrorlist
 clipse
 ctpv-git
-cura-bin
 custom-install
 discord-canary
 easyeffects-bundy01-presets
@@ -44,12 +43,10 @@ ttf-firacode
 tty-clock
 unigine-heaven
 virtio-win-stable
-waybar-git
 winegui-bin
 wlogout
 wlrobs-hg
 workstyle-git
-wpgtk-git
 xdg-desktop-portal-hyprland-git
 xpadneo-dkms-git
 yay

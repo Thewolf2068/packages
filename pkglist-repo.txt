@@ -12,7 +12,6 @@ corectrl
 cronie
 cups
 dnsmasq
-docker
 dolphin
 dosbox
 dunst
@@ -37,7 +36,6 @@ gparted
 greetd
 grim
 grub
-grub-customizer
 gtk-engine-murrine
 gtk3
 gtk4
@@ -106,7 +104,6 @@ python-pip
 python-pipenv
 python-pipx
 python-pypresence
-python-pywal
 qbittorrent
 qemu-base
 qt5-quickcontrols2
@@ -130,7 +127,6 @@ swaync
 swww
 tailscale
 thunar
-thunderbird
 tldr
 tree
 ttf-fira-code
@@ -144,6 +140,7 @@ virt-manager
 vkd3d
 vulkan-radeon
 vulkan-tools
+waybar
 wine-gecko
 wine-mono
 winetricks
