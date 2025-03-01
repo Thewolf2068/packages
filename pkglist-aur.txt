@@ -34,6 +34,8 @@ pyenv-virtualenv
 python2-bin
 r2modman-bin
 rose-pine-cursor
+sgdboop-bin
+spacecadetpinball-bin
 spicetify-cli
 spotify
 spotify-tui
