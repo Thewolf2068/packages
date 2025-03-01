@@ -76,6 +76,7 @@ mpv
 mupdf
 nano
 nasm
+nautilus
 ncdu
 neovim
 net-tools

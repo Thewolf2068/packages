@@ -3,6 +3,7 @@ audio-share-bin
 baobab-gtk3
 catppuccin-cursors-frappe
 catppuccin-gtk-theme-frappe
+cbonsai
 chaotic-keyring
 chaotic-mirrorlist
 clipse
@@ -19,11 +20,13 @@ gnome-calculator-gtk3
 gpustat-git
 jdk21-temurin
 jdownloader2
+krabby-bin
 lunar-client
 mailspring-bin
 maxautoclicker
 microsoft-edge-stable-bin
 miru-bin
+nerdfetch
 overlayed-bin
 parsec-bin
 protonup-qt
