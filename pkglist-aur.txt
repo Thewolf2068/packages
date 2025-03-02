@@ -31,6 +31,7 @@ overlayed-bin
 parsec-bin
 protonup-qt
 pyenv-virtualenv
+python-pyautogui
 python2-bin
 r2modman-bin
 rose-pine-cursor
@@ -51,6 +52,7 @@ virtio-win-stable
 winegui-bin
 wlogout
 wlrobs-hg
+wondershaper-git
 workstyle-git
 xdg-desktop-portal-hyprland-git
 xpadneo-dkms-git

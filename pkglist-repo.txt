@@ -32,6 +32,7 @@ gimp
 git
 gnome-calendar
 gnome-disk-utility
+gnome-screenshot
 gparted
 greetd
 grim
@@ -80,6 +81,7 @@ nautilus
 ncdu
 neovim
 net-tools
+nethogs
 networkmanager
 noto-fonts-emoji
 nsxiv
@@ -101,6 +103,7 @@ polkit-kde-agent
 prismlauncher
 pyenv
 python-httpx
+python-opencv
 python-pip
 python-pipenv
 python-pipx
@@ -151,6 +154,7 @@ xdg-desktop-portal-gtk
 xdotool
 xf86-video-ati
 xorg-xhost
+ydotool
 yt-dlp
 zram-generator
 zsh
