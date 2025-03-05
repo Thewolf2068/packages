@@ -49,6 +49,7 @@ ttf-firacode
 tty-clock
 unigine-heaven
 virtio-win-stable
+webex-bin
 winegui-bin
 wlogout
 wlrobs-hg
