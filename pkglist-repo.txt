@@ -11,6 +11,7 @@ code
 corectrl
 cronie
 cups
+dart
 dnsmasq
 dolphin
 dosbox
