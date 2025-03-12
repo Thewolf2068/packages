@@ -53,6 +53,7 @@ webex-bin
 winegui-bin
 wlogout
 wlrobs-hg
+woeusb
 wondershaper-git
 workstyle-git
 xdg-desktop-portal-hyprland-git
