@@ -1,4 +1,5 @@
 alvr-launcher-bin
+android-studio
 audio-share-bin
 baobab-gtk3
 catppuccin-cursors-frappe
