@@ -22,6 +22,7 @@ gpustat-git
 jdk21-temurin
 jdownloader2
 krabby-bin
+linutil-bin
 lunar-client
 mailspring-bin
 maxautoclicker
@@ -49,6 +50,7 @@ thorium-browser-bin
 ttf-firacode
 tty-clock
 unigine-heaven
+ventoy-bin
 virtio-win-stable
 webex-bin
 winegui-bin
