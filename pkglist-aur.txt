@@ -17,6 +17,7 @@ electron29-bin
 etcher-bin
 f3d-bin
 firebird-nspire
+gcalcli
 gnome-calculator-gtk3
 gpustat-git
 jdk21-temurin
@@ -29,8 +30,10 @@ maxautoclicker
 microsoft-edge-stable-bin
 miru-bin
 nerdfetch
+ngrok
 overlayed-bin
 parsec-bin
+pixelorama-bin
 protonup-qt
 pyenv-virtualenv
 python-pyautogui
